@@ -1,0 +1,8 @@
+Package: l7
+Version: 1.0-1
+Depends: libc, libshare
+Source: package/l7
+Section: net
+Architecture: ramips_24kec
+Installed-Size: 340665
+Description:  l7

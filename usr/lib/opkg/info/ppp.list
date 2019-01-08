@@ -1,0 +1,8 @@
+/lib/upgrade/keep.d/ppp
+/usr/sbin/pppd
+/etc/ppp/ppp-up
+/etc/ppp/filter
+/etc/ppp/ppp-down
+/etc/ppp/options
+/etc/ppp/chap-secrets
+/etc/ppp/resolv.conf

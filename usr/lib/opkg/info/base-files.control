@@ -1,0 +1,8 @@
+Package: base-files
+Version: 146-r1998
+Depends: libc, procd
+Source: package/base-files
+Section: base
+Architecture: ramips_24kec
+Installed-Size: 263171
+Description:  This package contains a base filesystem and system scripts for OpenWrt.

@@ -1,0 +1,2 @@
+/etc/init.d/auth.init
+/lib/modules/2.6.36/auth.ko

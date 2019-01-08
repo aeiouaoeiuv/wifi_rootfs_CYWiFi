@@ -1,0 +1,1071 @@
+Package: lighttpd-mod-mysql_vhost
+Version: 1.4.35-3
+Depends: libc, lighttpd, libmysqlclient
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: kmod-usb-storage
+Version: 2.6.36-1
+Depends: kernel (= 2.6.36-1-unknown), kmod-scsi-core, kmod-usb-core
+Provides:
+Status: install hold installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: libuci-lua
+Version: 2013-10-15.1-1
+Depends: libc, libuci, liblua
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: tcpdump-mini
+Version: 4.2.1-3
+Depends: libc, libpcap
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275499
+
+Package: libc
+Version: 0.9.33.2-1
+Depends: libgcc
+Provides:
+Status: install hold installed
+Essential: yes
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+Auto-Installed: yes
+
+Package: opkg
+Version: 618-6
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Conffiles:
+ /etc/opkg.conf 1c5f346a1b88acda511b39492022b62f
+Installed-Time: 1430275498
+
+Package: lighttpd-mod-trigger_b4_dl
+Version: 1.4.35-3
+Depends: libc, lighttpd, libpcre
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: kmod-usb-core
+Version: 2.6.36-1
+Depends: kernel (= 2.6.36-1-unknown), kmod-nls-base
+Provides:
+Status: install hold installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+Auto-Installed: yes
+
+Package: ip
+Version: 3.17.0-1
+Depends: libc, libnl-tiny
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Conffiles:
+ /etc/iproute2/rt_tables a1313318d6778fe6b8c680248ef5a463
+Installed-Time: 1430275497
+
+Package: libpthread
+Version: 0.9.33.2-1
+Depends: libgcc
+Provides:
+Status: install hold installed
+Essential: yes
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: ubus
+Version: 2013-09-29-6ae17d0298a8f1c24f16a68c8d1884091fb5c39f
+Depends: libc, libubus, libblobmsg-json, ubusd
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+Auto-Installed: yes
+
+Package: busybox
+Version: 1.19.4-7
+Depends: libc, libshare, mu
+Provides:
+Status: install user installed
+Essential: yes
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+
+Package: lighttpd-mod-cgi
+Version: 1.4.35-3
+Depends: libc, lighttpd
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: url_safe
+Version: 0.1-3
+Depends: libc, libshare
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275499
+
+Package: l7
+Version: 1.0-1
+Depends: libc, libshare
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: libubus-lua
+Version: 2013-09-29-6ae17d0298a8f1c24f16a68c8d1884091fb5c39f
+Depends: libc, libubus, liblua
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: libiwinfo-lua
+Version: 47
+Depends: libc, libiwinfo, liblua
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: libiwinfo
+Version: 47
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+Auto-Installed: yes
+
+Package: lighttpd-mod-setenv
+Version: 1.4.35-3
+Depends: libc, lighttpd
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: kmod-lib-crc-ccitt
+Version: 2.6.36-1
+Depends: kernel (= 2.6.36-1-unknown)
+Provides:
+Status: install hold installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: kmod-ledtrig-usbdev
+Version: 2.6.36-1
+Depends: kernel (= 2.6.36-1-unknown), kmod-usb-core
+Provides:
+Status: install hold installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+
+Package: kmod-hw_nat
+Version: 2.6.36-1
+Depends: kernel (= 2.6.36-1-unknown)
+Provides:
+Status: install hold installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+
+Package: lighttpd-mod-compress
+Version: 1.4.35-3
+Depends: libc, lighttpd, zlib
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: btnd
+Version: 1
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+
+Package: kmod-pppoe
+Version: 2.6.36-1
+Depends: kernel (= 2.6.36-1-unknown), kmod-ppp, kmod-pppox
+Provides:
+Status: install hold installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: mu
+Version: 1.0.0-1
+Depends: libc, libshare, libuci, libubox
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+Auto-Installed: yes
+
+Package: kmod-pppox
+Version: 2.6.36-1
+Depends: kernel (= 2.6.36-1-unknown), kmod-ppp
+Provides:
+Status: install hold installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+Auto-Installed: yes
+
+Package: kmod-ipt-conntrack
+Version: 2.6.36-1
+Depends: kernel (= 2.6.36-1-unknown), kmod-ipt-core
+Provides:
+Status: install hold installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+
+Package: base-files
+Version: 146-r1998
+Depends: libc, procd
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Conffiles:
+ /etc/hosts 0eea71665fb6890c06421fd13aa3f849
+ /etc/inittab 334cd49336d00c2a088c5214cd90ac8b
+ /etc/group 4a116d818b2f49e14939d581ec786de1
+ /etc/passwd 1248c30b5be108052a4f54580ee9eaf3
+ /etc/shadow bf9f260d7fe01b6f31512695da7cefe9
+ /etc/profile 405c4ee998afc25e753d7ad4513d3664
+ /etc/shells 725ba6f40dff0612f61ecd3f171bb3e1
+ /etc/sysctl.conf 5ef24a4c121d25a1a8a277ec9715a8ca
+ /etc/rc.local c9017ca3ea5fb9720bbd6595b1920fa7
+ /etc/sysupgrade.conf f91aef484370cefee501d64b5725c1d2
+ /etc/config/system 0962ebdcba272f69df6c081f9f8d351d
+ /etc/config/fstab 0f646f2d57fb3ab7aa8c75fc2da02f7b
+ /etc/config/fwinfo d005b970c93d78f7e9fa324c444ccabd
+Installed-Time: 1430275497
+
+Package: kmod-input-core
+Version: 2.6.36-1
+Depends: kernel (= 2.6.36-1-unknown)
+Provides:
+Status: install hold installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+
+Package: libpcre
+Version: 8.35-3
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: gpio
+Version: 1
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+
+Package: lighttpd-mod-proxy
+Version: 1.4.35-3
+Depends: libc, lighttpd
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: bzip2
+Version: 1.0.6-1
+Depends: libc, libbz2
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1434344442
+
+Package: kmod-usb-ohci
+Version: 2.6.36-1
+Depends: kernel (= 2.6.36-1-unknown), kmod-usb-core
+Provides:
+Status: install hold installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: lighttpd-mod-cml
+Version: 1.4.35-3
+Depends: libc, lighttpd
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: dnsmasq
+Version: 2.72-5
+Depends: libc, libshare, mu
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Conffiles:
+ /etc/config/dhcp 326e2116bd9bc3ecc5be4f75cd1e7647
+ /etc/dnsmasq.conf 7cf378e58d3fe5db31f4116a16c15c61
+Installed-Time: 1430275497
+
+Package: procd
+Version: 2013-10-09-d5ee716c3519c024afdd0dd16362c99665d8bc60-1
+Depends: libc, ubusd, ubus, libjson-script, ubox
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+Auto-Installed: yes
+
+Package: ubusd
+Version: 2013-09-29-6ae17d0298a8f1c24f16a68c8d1884091fb5c39f
+Depends: libc, libubox
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+Auto-Installed: yes
+
+Package: reg
+Version: 1
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: lighttpd-mod-expire
+Version: 1.4.35-3
+Depends: libc, lighttpd
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: block-mount
+Version: 2013-10-27-a9cb25c5c2b9d864f77033533fab9f2f8a6f94ab-1
+Depends: libc, ubox, libubox, libuci
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+
+Package: kmod-usb2
+Version: 2.6.36-1
+Depends: kernel (= 2.6.36-1-unknown), kmod-usb-core
+Provides:
+Status: install hold installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: libxml2
+Version: 2.9.1-1
+Depends: libc, libpthread, zlib
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: lighttpd
+Version: 1.4.35-3
+Depends: libc, libpcre, libpthread
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Conffiles:
+ /etc/lighttpd/lighttpd.conf 7e1d0420af5abab7b1dc18745e6c2cad
+Installed-Time: 1430275498
+Auto-Installed: yes
+
+Package: tc
+Version: 3.17.0-1
+Depends: libc, kmod-sched-core
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: libuci
+Version: 2013-10-15.1-1
+Depends: libc, libubox
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+Auto-Installed: yes
+
+Package: liblua
+Version: 5.1.5-1
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+Auto-Installed: yes
+
+Package: libip4tc
+Version: 1.4.20-1
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+Auto-Installed: yes
+
+Package: lighttpd-mod-status
+Version: 1.4.35-3
+Depends: libc, lighttpd
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: uci
+Version: 2013-10-15.1-1
+Depends: libc, libuci
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275499
+
+Package: lua
+Version: 5.1.5-1
+Depends: libc, liblua
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: wpad-mini
+Version: 20130807-1
+Depends: libc, libubus
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275499
+
+Package: dropbear
+Version: 2014.63-2
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Conffiles:
+ /etc/dropbear/dropbear_rsa_host_key d41d8cd98f00b204e9800998ecf8427e
+ /etc/dropbear/dropbear_dss_host_key d41d8cd98f00b204e9800998ecf8427e
+ /etc/config/dropbear 4ff9c827d4f95ca5082a5520c03e1419
+Installed-Time: 1434343774
+
+Package: url_log
+Version: 0.1-1
+Depends: libc, libshare
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275499
+
+Package: kmod-nls-utf8
+Version: 2.6.36-1
+Depends: kernel (= 2.6.36-1-unknown), kmod-nls-base
+Provides:
+Status: install hold installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: kmod-mtk-watchdog
+Version: 2.6.36-1
+Depends: kernel (= 2.6.36-1-unknown)
+Provides:
+Status: install hold installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: mtd
+Version: 20
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: lighttpd-mod-ssi
+Version: 1.4.35-3
+Depends: libc, lighttpd, libpcre
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: lighttpd-mod-secdownload
+Version: 1.4.35-3
+Depends: libc, lighttpd
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: wpa-supplicant
+Version: 20130807-1
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275499
+
+Package: lighttpd-mod-extforward
+Version: 1.4.35-3
+Depends: libc, lighttpd
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: libjson-c
+Version: 0.11-2
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+Auto-Installed: yes
+
+Package: libgcc
+Version: 4.6-linaro-1
+Provides:
+Status: install hold installed
+Essential: yes
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+Auto-Installed: yes
+
+Package: uci2dat
+Version: 1
+Depends: libc, libuci
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275499
+
+Package: lighttpd-mod-evasive
+Version: 1.4.35-3
+Depends: libc, lighttpd
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: web_auth
+Version: 0.1-3
+Depends: libc, libshare
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275499
+
+Package: watchdog
+Version: 1
+Depends: libc, kmod-hw_wdg
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275499
+
+Package: libip6tc
+Version: 1.4.20-1
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+Auto-Installed: yes
+
+Package: pppoe
+Version: 3.6-1
+Depends: libc, ppp
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: libuuid
+Version: 2.21.2-2
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: ppp
+Version: 2.4.5-10
+Depends: libc, kmod-ppp, libshare, mu
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Conffiles:
+ /etc/ppp/chap-secrets e29cbe6021f13bd9b14d780a80f188ab
+ /etc/ppp/filter 16b01d9201be60c9d1f16dd98f449484
+ /etc/ppp/options e624f7b4a1ddeecd3ae0062262fde90e
+Installed-Time: 1430275498
+
+Package: libubox
+Version: 2013-10-30-a34c8f6918c291275ded2b6fd9b94ac91722ded2
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+Auto-Installed: yes
+
+Package: ioos
+Version: 0.1-3
+Depends: libc, libuci, libubox, libshare, zlib, mu
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+
+Package: kmod-input-polldev
+Version: 2.6.36-1
+Depends: kernel (= 2.6.36-1-unknown), kmod-input-core
+Provides:
+Status: install hold installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+
+Package: lighttpd-mod-webdav
+Version: 1.4.35-3
+Depends: libc, lighttpd, libsqlite3, libuuid, libxml2
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: lighttpd-mod-access
+Version: 1.4.35-3
+Depends: libc, lighttpd
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: libjson-script
+Version: 2013-10-30-a34c8f6918c291275ded2b6fd9b94ac91722ded2
+Depends: libc, libubox
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+Auto-Installed: yes
+
+Package: hwnat
+Version: 4200
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+
+Package: libblobmsg-json
+Version: 2013-10-30-a34c8f6918c291275ded2b6fd9b94ac91722ded2
+Depends: libc, libjson-c, libubox
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+Auto-Installed: yes
+
+Package: sqos
+Version: 1.0-1
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: kmod-mt7620
+Version: 2.6.36+wifi2716_all_dpa_20130426-1
+Depends: kernel (= 2.6.36-1-unknown)
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: lighttpd-mod-usertrack
+Version: 1.4.35-3
+Depends: libc, lighttpd
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: iptables
+Version: 1.4.20-1
+Depends: libc, kmod-ipt-core, libip4tc, libip6tc, libxtables
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+
+Package: kmod-ipt-nathelper
+Version: 2.6.36-1
+Depends: kernel (= 2.6.36-1-unknown), kmod-ipt-core, kmod-ipt-nat
+Provides:
+Status: install hold installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+
+Package: cloud
+Version: 1.0.0-1
+Depends: libc, libshare, libuci, libubox, mu
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+
+Package: lighttpd-mod-alias
+Version: 1.4.35-3
+Depends: libc, lighttpd
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: jshn
+Version: 2013-10-30-a34c8f6918c291275ded2b6fd9b94ac91722ded2
+Depends: libc, libjson-c
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+
+Package: kmod-ipt-core
+Version: 2.6.36-1
+Depends: kernel (= 2.6.36-1-unknown)
+Provides:
+Status: install hold installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+Auto-Installed: yes
+
+Package: libpcap
+Version: 1.3.0-1
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: kmod-ppp
+Version: 2.6.36-1
+Depends: kernel (= 2.6.36-1-unknown), kmod-lib-crc-ccitt, kmod-slhc
+Provides:
+Status: install hold installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: libshare
+Version: 1.0.0-1
+Depends: libc, libuci, libubox
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+Auto-Installed: yes
+
+Package: dns
+Version: 0.1-1
+Depends: libc, libshare, mu
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+
+Package: lighttpd-mod-accesslog
+Version: 1.4.35-3
+Depends: libc, lighttpd
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: lighttpd-mod-evhost
+Version: 1.4.35-3
+Depends: libc, lighttpd
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: libubus
+Version: 2013-09-29-6ae17d0298a8f1c24f16a68c8d1884091fb5c39f
+Depends: libc, libubox
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+Auto-Installed: yes
+
+Package: lighttpd-mod-magnet
+Version: 1.4.35-3
+Depends: libc, lighttpd
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: lighttpd-mod-userdir
+Version: 1.4.35-3
+Depends: libc, lighttpd
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: libxtables
+Version: 1.4.20-1
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+Auto-Installed: yes
+
+Package: lighttpd-mod-redirect
+Version: 1.4.35-3
+Depends: libc, lighttpd, libpcre
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: zlib
+Version: 1.2.8-1
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+Auto-Installed: yes
+
+Package: ated
+Version: 1
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+
+Package: kmod-nls-cp936
+Version: 2.6.36-1
+Depends: kernel (= 2.6.36-1-unknown), kmod-nls-base
+Provides:
+Status: install hold installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: lighttpd-mod-auth
+Version: 1.4.35-3
+Depends: libc, lighttpd
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: lighttpd-mod-simple_vhost
+Version: 1.4.35-3
+Depends: libc, lighttpd
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: kmod-hw_wdg
+Version: 2.6.36-1
+Depends: kernel (= 2.6.36-1-unknown)
+Provides:
+Status: install hold installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+
+Package: libsqlite3
+Version: 3080600-1
+Depends: libc, libpthread
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: kmod-nls-cp950
+Version: 2.6.36-1
+Depends: kernel (= 2.6.36-1-unknown), kmod-nls-base
+Provides:
+Status: install hold installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: 8021xd
+Version: 1
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+
+Package: switch
+Version: 1
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: ubox
+Version: 2013-10-27-a9cb25c5c2b9d864f77033533fab9f2f8a6f94ab-1
+Depends: libc, libubox, ubusd, ubus, libuci
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+Auto-Installed: yes
+
+Package: kernel
+Version: 2.6.36-1-unknown
+Depends: libc
+Provides:
+Status: install hold installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+Auto-Installed: yes
+
+Package: libnl-tiny
+Version: 0.1-3
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+Auto-Installed: yes
+
+Package: libbz2
+Version: 1.0.6-1
+Depends: libc
+Provides:
+Status: install ok installed
+Architecture: ramips_24kec
+Installed-Time: 1434344442
+Auto-Installed: yes
+
+Package: lighttpd-mod-fastcgi
+Version: 1.4.35-3
+Depends: libc, lighttpd
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: lighttpd-mod-rewrite
+Version: 1.4.35-3
+Depends: libc, lighttpd, libpcre
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: kmod-nls-base
+Version: 2.6.36-1
+Depends: kernel (= 2.6.36-1-unknown)
+Provides:
+Status: install hold installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+Auto-Installed: yes
+
+Package: lighttpd-mod-scgi
+Version: 1.4.35-3
+Depends: libc, lighttpd
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: wireless-tools
+Version: 29-5
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275499
+
+Package: fp
+Version: 0.1-1
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+
+Package: kmod-scsi-core
+Version: 2.6.36-1
+Depends: kernel (= 2.6.36-1-unknown)
+Provides:
+Status: install hold installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: lighttpd-mod-rrdtool
+Version: 1.4.35-3
+Depends: libc, lighttpd
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: kmod-slhc
+Version: 2.6.36-1
+Depends: kernel (= 2.6.36-1-unknown), kmod-lib-crc-ccitt
+Provides:
+Status: install hold installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+Auto-Installed: yes
+
+Package: mii_mgr
+Version: 1
+Depends: libc
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: ppp-mod-pppoe
+Version: 2.4.5-10
+Depends: libc, kmod-pppoe
+Provides:
+Status: install user installed
+Architecture: ramips_24kec
+Installed-Time: 1430275498
+
+Package: kmod-ipt-nat
+Version: 2.6.36-1
+Depends: kernel (= 2.6.36-1-unknown), kmod-ipt-core, kmod-ipt-conntrack
+Provides:
+Status: install hold installed
+Architecture: ramips_24kec
+Installed-Time: 1430275497
+

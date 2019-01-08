@@ -1,0 +1,6 @@
+/etc/config/qos_rule
+/bin/setsysflag
+/bin/resetd
+/etc/init.d/ioos
+/bin/ioos
+/etc/firmware

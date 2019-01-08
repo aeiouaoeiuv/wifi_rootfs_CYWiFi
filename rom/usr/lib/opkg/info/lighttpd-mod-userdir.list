@@ -1,0 +1,2 @@
+/etc/lighttpd/conf.d/10-userdir.conf
+/usr/lib/lighttpd/mod_userdir.so

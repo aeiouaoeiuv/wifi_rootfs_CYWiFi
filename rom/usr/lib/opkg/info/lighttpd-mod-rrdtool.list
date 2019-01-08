@@ -1,0 +1,2 @@
+/usr/lib/lighttpd/mod_rrdtool.so
+/etc/lighttpd/conf.d/10-rrdtool.conf

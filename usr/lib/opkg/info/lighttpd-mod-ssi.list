@@ -1,0 +1,2 @@
+/etc/lighttpd/conf.d/10-ssi.conf
+/usr/lib/lighttpd/mod_ssi.so

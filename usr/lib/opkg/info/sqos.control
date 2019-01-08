@@ -1,0 +1,8 @@
+Package: sqos
+Version: 1.0-1
+Depends: libc
+Source: package/sqos
+Section: net
+Architecture: ramips_24kec
+Installed-Size: 13843
+Description:  sqos

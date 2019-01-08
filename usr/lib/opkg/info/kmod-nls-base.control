@@ -1,0 +1,10 @@
+Package: kmod-nls-base
+Version: 2.6.36-1
+Depends: kernel (=2.6.36-1-unknown)
+Source: package/kernel/linux
+License: GPLv2
+Section: kernel
+Status: unknown hold not-installed
+Architecture: ramips_24kec
+Installed-Size: 104
+Description:  Kernel module for NLS (Native Language Support)

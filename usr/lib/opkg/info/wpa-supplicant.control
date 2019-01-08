@@ -1,0 +1,11 @@
+Package: wpa-supplicant
+Version: 20130807-1
+Depends: libc
+Source: package/network/services/hostapd
+SourceFile: hostapd-20130807.tar.bz2
+SourceURL: git://w1.fi/srv/git/hostap.git
+Section: net
+Maintainer: Felix Fietkau <nbd@openwrt.org>
+Architecture: ramips_24kec
+Installed-Size: 188981
+Description:  WPA Supplicant

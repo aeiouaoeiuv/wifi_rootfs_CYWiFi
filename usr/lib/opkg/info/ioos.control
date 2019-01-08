@@ -1,0 +1,8 @@
+Package: ioos
+Version: 0.1-3
+Depends: libc, libuci, libubox, libshare, zlib, mu
+Source: package/ioos
+Section: net
+Architecture: ramips_24kec
+Installed-Size: 36695
+Description:  ioos

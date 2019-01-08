@@ -1,0 +1,8 @@
+Package: mu
+Version: 1.0.0-1
+Depends: libc, libshare, libuci, libubox
+Source: package/mu
+Section: base
+Architecture: ramips_24kec
+Installed-Size: 41292
+Description:  mu

@@ -1,0 +1,8 @@
+Package: cloud
+Version: 1.0.0-1
+Depends: libc, libshare, libuci, libubox, mu
+Source: package/cloud
+Section: base
+Architecture: ramips_24kec
+Installed-Size: 21673
+Description:  cloud client and cloud config prase

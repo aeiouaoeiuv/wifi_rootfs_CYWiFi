@@ -1,0 +1,10 @@
+Package: kmod-mt7620
+Version: 2.6.36+wifi2716_all_dpa_20130426-1
+Depends: kernel (=2.6.36-1-unknown)
+Source: package/ralink/drivers/mt7620
+SourceFile: mt7620_wifi2716_all_dpa_20130426.tar.bz2
+SourceURL: http://localhost/ http://172.26.66.224/mtk_drivers/
+Section: kernel
+Architecture: ramips_24kec
+Installed-Size: 888832
+Description:  Ralink MT7620 wifi AP driver

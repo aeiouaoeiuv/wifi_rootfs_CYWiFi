@@ -1,0 +1,10 @@
+Package: dns
+Version: 0.1-1
+Depends: libc, libshare, mu
+Source: package/dns
+License: GPLv2 LGPLv2.1
+Section: net
+Maintainer: Felix Fietkau <nbd@openwrt.org>
+Architecture: ramips_24kec
+Installed-Size: 1441
+Description:  dns

@@ -1,0 +1,4 @@
+/etc/init.d/cloud
+/bin/cloud_client
+/bin/cloud_exchange
+/bin/tspeed

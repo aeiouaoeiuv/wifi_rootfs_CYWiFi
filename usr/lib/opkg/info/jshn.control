@@ -1,0 +1,12 @@
+Package: jshn
+Version: 2013-10-30-a34c8f6918c291275ded2b6fd9b94ac91722ded2
+Depends: libc, libjson-c
+Source: package/libs/libubox
+SourceFile: libubox-2013-10-30-a34c8f6918c291275ded2b6fd9b94ac91722ded2.tar.gz
+SourceURL: git://nbd.name/luci2/libubox.git
+License: ISC BSD-3c
+Section: utils
+Maintainer: Felix Fietkau <nbd@openwrt.org>
+Architecture: ramips_24kec
+Installed-Size: 5150
+Description:  Library for parsing and generating JSON from shell scripts

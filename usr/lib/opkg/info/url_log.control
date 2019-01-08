@@ -1,0 +1,10 @@
+Package: url_log
+Version: 0.1-1
+Depends: libc, libshare
+Source: package/url_log
+License: GPLv2 LGPLv2.1
+Section: net
+Maintainer: Felix Fietkau <nbd@openwrt.org>
+Architecture: ramips_24kec
+Installed-Size: 4530
+Description:  This package contains a stripped down version of libnl

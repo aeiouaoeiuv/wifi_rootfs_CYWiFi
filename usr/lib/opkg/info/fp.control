@@ -1,0 +1,10 @@
+Package: fp
+Version: 0.1-1
+Depends: libc
+Source: package/fp
+License: GPLv2 LGPLv2.1
+Section: net
+Maintainer: Felix Fietkau <nbd@openwrt.org>
+Architecture: ramips_24kec
+Installed-Size: 6791
+Description:  fast path

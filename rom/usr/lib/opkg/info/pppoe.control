@@ -1,0 +1,10 @@
+Package: pppoe
+Version: 3.6-1
+Depends: libc, ppp
+Source: package/pppoe
+License: GPLv2 LGPLv2.1
+Section: net
+Maintainer: Felix Fietkau <nbd@openwrt.org>
+Architecture: ramips_24kec
+Installed-Size: 21552
+Description:  This package contains a stripped down version of libnl

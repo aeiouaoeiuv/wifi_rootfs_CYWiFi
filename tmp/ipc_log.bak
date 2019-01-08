@@ -1,0 +1,1233 @@
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x10005
+[IPC:00370]:IN:msg:0x10005, len:44, flag:0
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00372]:OUT:msg:0x10005, len:44, flag:0
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x10005
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x10005
+[IPC:00370]:IN:msg:0x10005, len:44, flag:0
+[IPC:00372]:OUT:msg:0x10005, len:44, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x10005
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x10004
+[IPC:00370]:IN:msg:0x10004, len:44, flag:0
+[IPC:00372]:OUT:msg:0x10004, len:44, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x10004
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x2
+[IPC:00370]:IN:msg:0x2, len:0, flag:0
+[IPC:00372]:OUT:msg:0x2, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x2
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x20001
+[IPC:00370]:IN:msg:0x20001, len:65, flag:0
+[IPC:00372]:OUT:msg:0x20001, len:65, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x20001
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x20001
+[IPC:00370]:IN:msg:0x20001, len:62, flag:0
+[IPC:00372]:OUT:msg:0x20001, len:62, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x20001
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x20001
+[IPC:00370]:IN:msg:0x20001, len:5, flag:0
+[IPC:00372]:OUT:msg:0x20001, len:5, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x20001
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00370]:IN:msg:0x70003, len:12, flag:0
+[IPC:00372]:OUT:msg:0x70003, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x70003
+[IPC:00203]:SEND:IN:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00370]:IN:msg:0x60002, len:12, flag:0
+[IPC:00372]:OUT:msg:0x60002, len:12, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ipc_path_mu, msg:0x60002
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1
+[IPC:00370]:IN:msg:0x1, len:0, flag:0
+[IPC:00372]:OUT:msg:0x1, len:0, flag:0
+[IPC:00258]:SEND:OUT:/tmp/ce_ipc, msg:0x1
+[IPC:00203]:SEND:IN:/tmp/ce_ipc, msg:0x1

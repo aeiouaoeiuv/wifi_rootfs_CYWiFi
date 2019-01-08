@@ -1,0 +1,2 @@
+/usr/lib/lighttpd/mod_mysql_vhost.so
+/etc/lighttpd/conf.d/10-mysql_vhost.conf

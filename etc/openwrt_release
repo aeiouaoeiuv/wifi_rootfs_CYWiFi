@@ -1,0 +1,6 @@
+DISTRIB_ID="OpenWrt"
+DISTRIB_RELEASE="Bleeding Edge"
+DISTRIB_REVISION="r1998"
+DISTRIB_CODENAME="barrier_breaker"
+DISTRIB_TARGET="ramips/mt7620a"
+DISTRIB_DESCRIPTION="OpenWrt Barrier Breaker r1998"

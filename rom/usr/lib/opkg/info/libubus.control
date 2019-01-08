@@ -1,0 +1,12 @@
+Package: libubus
+Version: 2013-09-29-6ae17d0298a8f1c24f16a68c8d1884091fb5c39f
+Depends: libc, libubox
+Source: package/system/ubus
+SourceFile: ubus-2013-09-29-6ae17d0298a8f1c24f16a68c8d1884091fb5c39f.tar.gz
+SourceURL: git://nbd.name/luci2/ubus.git
+License: LGPLv2.1
+Section: libs
+Maintainer: Felix Fietkau <nbd@openwrt.org>
+Architecture: ramips_24kec
+Installed-Size: 7690
+Description:  OpenWrt RPC client library

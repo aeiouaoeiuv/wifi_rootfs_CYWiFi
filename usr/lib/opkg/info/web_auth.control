@@ -1,0 +1,10 @@
+Package: web_auth
+Version: 0.1-3
+Depends: libc, libshare
+Source: package/web_auth
+License: GPLv2 LGPLv2.1
+Section: net
+Maintainer: Felix Fietkau <nbd@openwrt.org>
+Architecture: ramips_24kec
+Installed-Size: 3562
+Description:  web_auth

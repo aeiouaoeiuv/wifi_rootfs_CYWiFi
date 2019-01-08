@@ -1,0 +1,3 @@
+/bin/qos.sh
+/etc/init.d/sqos
+/lib/modules/2.6.36/sqos.ko

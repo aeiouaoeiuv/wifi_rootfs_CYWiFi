@@ -1,0 +1,2 @@
+/lib/modules/2.6.36/ipt_REDIRECT.ko
+/etc/modules.d/ipt-nat

@@ -1,0 +1,2 @@
+/etc/lighttpd/conf.d/10-cml.conf
+/usr/lib/lighttpd/mod_cml.so

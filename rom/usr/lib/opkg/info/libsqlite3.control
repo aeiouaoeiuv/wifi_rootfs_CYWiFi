@@ -1,0 +1,15 @@
+Package: libsqlite3
+Version: 3080600-1
+Depends: libc, libpthread
+Source: package/libs/sqlite3
+SourceFile: sqlite-autoconf-3080600.tar.gz
+SourceURL: http://www.sqlite.org/2014/
+License: PUBLICDOMAIN
+Section: libs
+Maintainer: Etienne CHAMPETIER <champetier.etienne@gmail.com>
+Architecture: ramips_24kec
+Installed-Size: 359607
+Description:  SQLite is a small C library that implements a self-contained, embeddable,
+ zero-configuration SQL database engine.
+ This package contains the SQLite (v3.x) shared library, used by other
+ programs.

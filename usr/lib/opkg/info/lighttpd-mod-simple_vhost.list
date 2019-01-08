@@ -1,0 +1,2 @@
+/etc/lighttpd/conf.d/10-simple_vhost.conf
+/usr/lib/lighttpd/mod_simple_vhost.so

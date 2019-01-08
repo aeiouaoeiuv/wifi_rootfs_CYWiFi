@@ -1,0 +1,2 @@
+/etc/lighttpd/conf.d/10-evasive.conf
+/usr/lib/lighttpd/mod_evasive.so

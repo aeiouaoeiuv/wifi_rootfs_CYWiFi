@@ -1,0 +1,2 @@
+/etc/lighttpd/conf.d/10-alias.conf
+/usr/lib/lighttpd/mod_alias.so

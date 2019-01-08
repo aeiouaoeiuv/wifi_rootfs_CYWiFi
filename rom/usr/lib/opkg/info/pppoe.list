@@ -1,0 +1,3 @@
+/etc/ppp/pppoe-server-options
+/etc/ppp/pap-secrets
+/bin/pppoe-server

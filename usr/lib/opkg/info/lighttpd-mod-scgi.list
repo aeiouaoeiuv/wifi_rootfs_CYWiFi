@@ -1,0 +1,2 @@
+/usr/lib/lighttpd/mod_scgi.so
+/etc/lighttpd/conf.d/10-scgi.conf

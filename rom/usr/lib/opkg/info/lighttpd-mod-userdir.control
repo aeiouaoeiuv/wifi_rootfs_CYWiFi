@@ -1,0 +1,12 @@
+Package: lighttpd-mod-userdir
+Version: 1.4.35-3
+Depends: libc, lighttpd
+Source: package/network/services/lighttpd
+SourceFile: lighttpd-1.4.35.tar.xz
+SourceURL: http://download.lighttpd.net/lighttpd/releases-1.4.x
+License: BSD-3c
+Section: net
+Maintainer: W. Michael Petullo <mike@flyn.org>
+Architecture: ramips_24kec
+Installed-Size: 3362
+Description:  User directory module

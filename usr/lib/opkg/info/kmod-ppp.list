@@ -1,0 +1,2 @@
+/etc/modules.d/ppp
+/lib/modules/2.6.36/ppp_async.ko
